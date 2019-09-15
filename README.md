@@ -1,2 +1,2 @@
-# Zehndesk
-Zehndesk homework repository
+# Zendesk
+Zendesk homework repository
